@@ -1,0 +1,12 @@
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\App.IBLL.dll
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\App.IBLL.pdb
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\App.Common.dll
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\App.Models.dll
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\EntityFramework.dll
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\App.Common.pdb
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\App.Models.pdb
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\EntityFramework.xml
+E:\工作\代码\TestCode\AppSolution\App.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\工作\代码\TestCode\AppSolution\App.IBLL\obj\Debug\App.IBLL.csprojResolveAssemblyReference.cache
+E:\工作\代码\TestCode\AppSolution\App.IBLL\obj\Debug\App.IBLL.dll
+E:\工作\代码\TestCode\AppSolution\App.IBLL\obj\Debug\App.IBLL.pdb

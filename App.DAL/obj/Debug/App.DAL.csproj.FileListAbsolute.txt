@@ -1,0 +1,13 @@
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\App.DAL.dll.config
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\App.DAL.dll
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\App.DAL.pdb
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\App.IDAL.dll
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\App.Models.dll
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\EntityFramework.dll
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\App.IDAL.pdb
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\App.Models.pdb
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\EntityFramework.xml
+E:\工作\代码\TestCode\AppSolution\App.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\工作\代码\TestCode\AppSolution\App.DAL\obj\Debug\App.DAL.csprojResolveAssemblyReference.cache
+E:\工作\代码\TestCode\AppSolution\App.DAL\obj\Debug\App.DAL.dll
+E:\工作\代码\TestCode\AppSolution\App.DAL\obj\Debug\App.DAL.pdb

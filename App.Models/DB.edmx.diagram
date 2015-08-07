@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="346dda574a2d401d998c2a9bdcfe4078" Name="Diagram1" >
+        <EntityTypeShape EntityType="DB.SysModule" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="DB.SysSample" Width="1.5" PointX="2.75" PointY="0.75" />
+        <AssociationConnector Association="DB.FK_SysModule_SysModule" />
+        <EntityTypeShape EntityType="DB.SysLog" Width="1.5" PointX="3.375" PointY="4.75" />
+        <EntityTypeShape EntityType="DB.SysException" Width="1.5" PointX="5.375" PointY="0.75" />
+        <EntityTypeShape EntityType="DB.SysModuleOperate" Width="1.5" PointX="8.5" PointY="1.5" />
+        <EntityTypeShape EntityType="DB.SysUser" Width="1.5" PointX="4.5" PointY="3.5" />
+        <EntityTypeShape EntityType="DB.SysRole" Width="1.5" PointX="2.25" PointY="3.125" />
+        <EntityTypeShape EntityType="DB.SysRoleSysUser" Width="1.5" PointX="2.5" PointY="4.875" />
+        <EntityTypeShape EntityType="DB.SysRight" Width="1.5" PointX="1.875" PointY="5.5" />
+        <EntityTypeShape EntityType="DB.SysRightOperate" Width="1.5" PointX="1" PointY="5.625" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

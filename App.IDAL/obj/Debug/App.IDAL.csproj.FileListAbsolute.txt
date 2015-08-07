@@ -1,0 +1,11 @@
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\App.IDAL.dll.config
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\App.IDAL.dll
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\App.IDAL.pdb
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\App.Models.dll
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\EntityFramework.dll
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\App.Models.pdb
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\EntityFramework.xml
+E:\工作\代码\TestCode\AppSolution\App.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\工作\代码\TestCode\AppSolution\App.IDAL\obj\Debug\App.IDAL.csprojResolveAssemblyReference.cache
+E:\工作\代码\TestCode\AppSolution\App.IDAL\obj\Debug\App.IDAL.dll
+E:\工作\代码\TestCode\AppSolution\App.IDAL\obj\Debug\App.IDAL.pdb

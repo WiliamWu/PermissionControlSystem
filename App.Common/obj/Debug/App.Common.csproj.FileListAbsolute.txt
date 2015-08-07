@@ -1,0 +1,10 @@
+E:\工作\代码\TestCode\AppSolution\App.Common\bin\Debug\App.Common.dll
+E:\工作\代码\TestCode\AppSolution\App.Common\bin\Debug\App.Common.pdb
+E:\工作\代码\TestCode\AppSolution\App.Common\obj\Debug\App.Common.dll
+E:\工作\代码\TestCode\AppSolution\App.Common\obj\Debug\App.Common.pdb
+E:\工作\代码\TestCode\AppSolution\App.Common\obj\Debug\App.Common.csprojResolveAssemblyReference.cache
+E:\工作\代码\TestCode\AppSolution\App.Common\bin\Debug\App.Models.dll
+E:\工作\代码\TestCode\AppSolution\App.Common\bin\Debug\EntityFramework.dll
+E:\工作\代码\TestCode\AppSolution\App.Common\bin\Debug\App.Models.pdb
+E:\工作\代码\TestCode\AppSolution\App.Common\bin\Debug\EntityFramework.xml
+E:\工作\代码\TestCode\AppSolution\App.Common\bin\Debug\zh-Hans\EntityFramework.resources.dll
